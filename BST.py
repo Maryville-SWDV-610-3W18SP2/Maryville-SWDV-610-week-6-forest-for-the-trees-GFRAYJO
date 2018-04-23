@@ -30,7 +30,7 @@ def getRightChild(root):
     return root[2]
 
 
-#To test Binary Heap Tree functions    
+#To test the Binary Heap Tree functions    
 ##r = bht(15)
 ##insertLeft(r,75)
 ##insertLeft(r,60)
